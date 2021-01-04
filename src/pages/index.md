@@ -10,9 +10,6 @@ sections:
       - label: Learn more
         url: /features
         style: primary
-      - label: ''
-        url: /contact
-        style: secondary
     align: left
     image_position: right
     has_background: true

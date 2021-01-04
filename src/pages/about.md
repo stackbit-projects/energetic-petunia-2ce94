@@ -22,7 +22,7 @@ sections:
     title: Get in touch
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
-      - label: Contact Us
+      - label: Contact me
         url: /contact
         style: secondary
     has_background: true

@@ -10,7 +10,7 @@ sections:
       - label: Learn more
         url: /features
         style: primary
-      - label: Contact me
+      - label: ''
         url: /contact
         style: secondary
     align: left
